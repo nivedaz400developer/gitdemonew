@@ -7,3 +7,5 @@ MY TO-DO List
 5. Visit abc
 6. Find how to learn about AI
 7. Learn more about git
+8. Lean Chess programming
+9.Find Internship
